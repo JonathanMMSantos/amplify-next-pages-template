@@ -8,7 +8,11 @@ body {
   justify-content: center;
   align-items: center;
 }
-
+.todobutton{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 main {
   display: flex;
   flex-direction: column;
